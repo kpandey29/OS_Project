@@ -1,1 +1,1 @@
-# OS_MiniProject
+# OS_Project
